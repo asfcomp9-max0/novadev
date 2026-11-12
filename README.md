@@ -1,4 +1,4 @@
-# 🚀 Nova Dev — Ingeniería de Élite Acelerada por IA
+# 🚀 Nova Dev — Ingeniería de Élite
 
 > **SpA chilena en constitución** | Capital: 3M CLP | Validación: 10k USD  
 > **Foco:** Software para el Estado (B2G, Ley 19.886) + Micro-SaaS validados  
